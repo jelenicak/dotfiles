@@ -15,6 +15,8 @@ You also need to install [TypeScript](https://www.typescriptlang.org/) for neovi
 
 Also, [tmux](https://github.com/tmux/tmux/wiki) and [tpm](https://github.com/tmux-plugins/tpm) for plugins.
 
+- - -
+
 Use on your own responsibility 🙅
 
 PRs are welcome 👐
