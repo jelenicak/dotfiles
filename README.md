@@ -17,7 +17,7 @@ Also, [tmux](https://github.com/tmux/tmux/wiki) and [tpm](https://github.com/tmu
 
 ### 💅 What It Looks Like
 
-![image](https://www.dropbox.com/s/47dwosadlk7iaup/Screenshot%20at%2013-36-41.png?dl=1)
+![image](https://i.imgur.com/OvFu2Zd.png)
 
 ---
 
