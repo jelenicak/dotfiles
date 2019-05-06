@@ -1,0 +1,22 @@
+[user]
+	email = myemail@something.com
+	name = Jelena Keravica
+
+[core]
+	editor = vim
+	pager = more
+
+[alias]
+  co = checkout
+  cm = commit -m
+  st = status
+  br = branch
+  ps = push
+  pl = pull
+  df = diff
+  dfs = diff --staged
+  hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+  undo = reset --soft HEAD^
+
+[push]
+  default = current
